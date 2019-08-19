@@ -1,19 +1,19 @@
 This java code is automation with selenium to test the search function on Expedia front page.
 
-This code will work for the following option:
-Flights 
-	-Roundtrip
-	-One way
-	-Multi-City
-Hotels
-Bundle and Save
-	-Flight + Hotel
-	-Flight + Hotel + Car
-	-Flight + Car
-	-Hotel + Car
-Cars
-	-Rental Cars
-	-Airport Transportation
+This code will work for the following option:  
+Flights  
+	-Roundtrip  
+	-One way  
+	-Multi-City  
+Hotels  
+Bundle and Save  
+	-Flight + Hotel  
+	-Flight + Hotel + Car  
+	-Flight + Car   
+	-Hotel + Car  
+Cars  
+	-Rental Cars  
+	-Airport Transportation  
 
 On the top of the Java file, which will list all the value you should needed to modify to change the result/test on this code.
 
