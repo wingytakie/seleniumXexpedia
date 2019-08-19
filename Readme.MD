@@ -24,3 +24,5 @@ On the top of the Java file, which will list all the value you should needed to 
 4. Provide number of traveler. (For hotel book, there is limit of 6 people in a room)
 5. Provide age of Child and Infant. (If any)
 6. For rental car, select either "rental cars" or "air" for Airport Transportation; For cars optiont, you will need to provide specific time as well.
+
+Last edit: 2018/8/19
